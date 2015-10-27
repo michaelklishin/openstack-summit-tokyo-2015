@@ -1,2 +1,13 @@
-# openstack-summit-tokyo-2015
-Slides of my talk at OpenStack Summit Tokyo
+# OpenStack Summit Tokyo Slides
+
+Slides of my talk at OpenStack Summit Tokyo:
+
+ * RabbitMQ Operations
+
+
+## License and Copyright
+
+(c) Michael Klishin, 2015.
+
+See LICENSE.
+
